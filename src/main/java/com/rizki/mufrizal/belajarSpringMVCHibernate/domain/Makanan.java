@@ -17,6 +17,7 @@ import org.hibernate.annotations.GenericGenerator;
  * @author rizki
  * @since Sep 27, 2015
  */
+
 @Entity
 @Table(name = "tb_makanan")
 public class Makanan implements Serializable {
